@@ -10,7 +10,9 @@ Google Maps API, Wikipedia API, React, Yarn, NPM/nodejs
 
 To Run Project:
 
--npm install, -yarn start
+Clone this repo: https://github.com/Nate03281982/React-Map-Project.git
+
+-run npm install, -run yarn start
 
 
 To use a sevice worker you need to open the project in production mode:
